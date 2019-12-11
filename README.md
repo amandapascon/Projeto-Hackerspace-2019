@@ -18,7 +18,7 @@
   2. Abrir o código disponível nesse github pela IDE;
   3. Descobrir o ID do cartão que voce quer conceder acesso, e alterar a linha 65 do meu código.
   3. Fazer as seguintes conexões entre seu módulo rfid e o arduíno UNO:
-  ![Imagem](https://github.com/amandapascon/Projeto-Hackerspace-2019/blob/master/moduloRFID.png)
+  ![Imagem](https://github.com/amandapascon/Projeto-Hackerspace-2019/blob/master/RFID.png)
   4. Ligar o pino de dados do relé no pina 4 do arduíno (esse foi o que eu escolhi e já está configurado na linha 9 do meu código);
   5. Conectar a trava elétrica, de modo a passar pelo relé, para que possa ter o controle a partir dele de quando ativá-la;
   6. Passar o código para o arduíno.
@@ -29,5 +29,5 @@
 ## Autores
 *Amanda Carnio Pascon (https://github.com/amandapascon)
 
-##Imagens do projeto
+## Imagens do projeto
 ![Imagem](https://github.com/amandapascon/Projeto-Hackerspace-2019/blob/master/projeto.jpeg)
