@@ -33,4 +33,3 @@ Amanda Carnio Pascon (https://github.com/amandapascon)
 
 ## Imagens do projeto
 ![Imagem](https://github.com/amandapascon/Projeto-Hackerspace-2019/blob/master/projeto.jpeg)
-Esse foi o protótipo que desenvolvi:
