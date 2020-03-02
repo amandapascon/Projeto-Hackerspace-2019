@@ -27,6 +27,11 @@ Projeto-Hackerspace 2019
   
 ## Bugs
   Tome cuidado ao comprar seu módulo rfid, ele pode apresentar alguns problemas, como o meu, e não ser preciso na leitura dos cartões.
+  
+  
+## Conclusão
+  A ideia geral de construção do sistema de controle de acesso com Arduíno foi contemplada. Ademais, é possível, com mais tempo e planejamento, trazer melhorias ao projeto para que seja mais dinâmico e mais acessível para a população.
+  Dessa maneira, defeitos decorrentes poderiam ser corrigidos e também, ao trazer uma melhor montagem e estrutura de todos os itens necessários para a implementação física, seria viável à mais pessoas.
 
 ## Autores
 Amanda Carnio Pascon (https://github.com/amandapascon)
